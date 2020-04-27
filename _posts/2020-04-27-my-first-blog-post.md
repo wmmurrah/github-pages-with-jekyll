@@ -1,6 +1,6 @@
 ---
 title: "Introductory Post"
-data: 2020-04-27
+date: 2020-04-27
 ---
 
-This is a new post!
+This is a new post! 
